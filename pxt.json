@@ -1,5 +1,5 @@
 {
-    "name": "connectin tester (Wires)",
+    "name": "Micro:Bit Multimeter",
     "description": "",
     "dependencies": {
         "core": "*",
